@@ -43,7 +43,7 @@ I received my B.S. and Ph.D. degrees from from Department of Automation, Univers
 
 ## Publications
 
-- **Saihui Hou**, Xu Liu, Chunshui Cao, and Yongzhen Huang, Gait Quality Aware Network: Towards the Interpretability of Silhouette-based Gait Recognition, in IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2022. [[Paper]](./publications/tnnls2022_gqan.pdf) 
+- **Saihui Hou**, Xu Liu, Chunshui Cao, and Yongzhen Huang, Gait Quality Aware Network: Towards the Interpretability of Silhouette-based Gait Recognition, in IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2022. [[Paper]](./publications/tnnls2022_gqan.pdf) 
 
 - **Saihui Hou**, Xu Liu, Chunshui Cao, and Yongzhen Huang, Set Residual Network for Silhouette-based Gait Recognition, in IEEE Transactions on Biometrics, Behavior, and Identity Science (**TBIOM**) 2021. [[Paper]](./publications/tbiom2021_srn.pdf) 
 
