@@ -1,6 +1,6 @@
 ## Welcome to Saihui Hou's Homepage
 
-My name is Saihui Hou and I am a PhD from Department of Automation, University of Science and Technology of China (USTC). My research is around machine learning and computer vision.
+I received my B.S. and Ph.D. degrees from from Department of Automation, University of Science and Technology of China (USTC) in 2014 and 2019. My research is around machine learning and computer vision.
 
 ## Education
 
