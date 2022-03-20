@@ -1,4 +1,4 @@
-## Welcome to Saihui Hou's Homepage
+## Welcome to Homepage of Saihui Hou (侯赛辉)
 
 I received my B.S. and Ph.D. degrees from from Department of Automation, University of Science and Technology of China (USTC) in 2014 and 2019. My research is around machine learning and computer vision.
 
