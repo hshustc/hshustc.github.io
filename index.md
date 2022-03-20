@@ -1,7 +1,9 @@
 ## Welcome to Saihui Hou's Homepage
 
 My name is Saihui Hou and I am a PhD from Department of Automation, University of Science and Technology of China (USTC). My research is around machine learning and computer vision.
-##Education
+
+## Education
+
 - 2019.07-2021.09
 
 	- Institute of Automation, Chinese Academy of Sciences
@@ -25,7 +27,7 @@ My name is Saihui Hou and I am a PhD from Department of Automation, University o
 
 	- Bachelor of Engineering & Bachelor of Management Science (Dual)
 
-##Research Interests
+## Research Interests
 
 - Gait Recognition
 
@@ -39,7 +41,8 @@ My name is Saihui Hou and I am a PhD from Department of Automation, University o
 
 - Saliency detection
 
-##Publications
+## Publications
+
 - **Saihui Hou**, Xu Liu, Chunshui Cao, and Yongzhen Huang, Gait Quality Aware Network: Towards the Interpretability of Silhouette-based Gait Recognition, in IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2022. [[Paper]](./publications/tnnls2022_gqan.pdf) 
 
 - **Saihui Hou**, Xu Liu, Chunshui Cao, and Yongzhen Huang, Set Residual Network for Silhouette-based Gait Recognition, in IEEE Transactions on Biometrics, Behavior, and Identity Science (**TBIOM**) 2021. [[Paper]](./publications/tbiom2021_srn.pdf) 
@@ -68,7 +71,8 @@ My name is Saihui Hou and I am a PhD from Department of Automation, University o
 
 - **Saihui Hou**, Zilei Wang, and Feng Wu, Deeply Exploit Depth Information for Object Detection, in IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) Workshop, 2016. [[Paper]](./publications/cvpr2016_deeply.pdf)
 
-##Honors&Awards
+## Honors&Awards
+
 - 10/2019  President Scholarship of Chinese Academy of Sciences
 
 - 06/2019  Excellent Doctoral Dissertation of USTC
@@ -84,5 +88,6 @@ My name is Saihui Hou and I am a PhD from Department of Automation, University o
 - 10/2012  Industrial Bank’s Scholarship
 
 
-##Contact Information
+## Contact Information
+
 - Email：hshvim@live.com
