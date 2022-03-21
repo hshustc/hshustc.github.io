@@ -1,16 +1,16 @@
 ## Welcome to Saihui Hou's Homepage (侯赛辉)
 
-I received my B.S. and Ph.D. degrees from from Department of Automation, University of Science and Technology of China (USTC) in 2014 and 2019. My research is around machine learning and computer vision.
+I received my B.E. and Ph.D. degrees from from Department of Automation, University of Science and Technology of China (USTC) in 2014 and 2019. My research is around machine learning and computer vision.
 
 ## Experience
 
 - 2019.07-2021.09 Institute of Automation, Chinese Academy of Sciences, Postdoc
 
-- 2014.09-2019.06 Department of Automation, University of Science and Technology of China, PhD
+- 2014.09-2019.06 Department of Automation, University of Science and Technology of China, Ph.D.
 
 - 2017.09-2018.04, Department of Information Engineering, The Chinese University of Hong Kong, Research Assistant
 
-- 2010.09–2014.06, Department of Automation, University of Science and Technology of China, Bachelor of Engineering & Management Science
+- 2010.09–2014.06, Department of Automation, University of Science and Technology of China, B.E.
 
 ## Research Interests
 
