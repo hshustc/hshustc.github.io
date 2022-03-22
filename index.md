@@ -23,7 +23,7 @@ I received my B.E. and Ph.D. degrees from from Department of Automation, Univers
 - Fine-grained Visual Categorization
 
 ## Selected Publications
-- **Please Visit [[My Google Scholar]](https://scholar.google.com/citations?user=6gnHaLcAAAAJ&hl=zh-CN) for Full Paper List.**
+- **Please [[View My Google Scholar]](https://scholar.google.com/citations?user=6gnHaLcAAAAJ&hl=zh-CN) for Full Paper List.**
 
 - **Saihui Hou**, Xu Liu, Chunshui Cao, and Yongzhen Huang, Gait Quality Aware Network: Towards the Interpretability of Silhouette-based Gait Recognition, in IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2022.
 
