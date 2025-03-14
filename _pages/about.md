@@ -63,3 +63,12 @@ My research interest includes neural machine translation and computer vision. I 
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 # 🌏 Collaborators
 # 📑 Academic Services
+- 中国图象图形学学会机器视觉专委会委员
+- 为TPAMI、IJCV、TIP以及CVPR、ICCV、ECCV等多个顶级期刊和会议审稿
+# 🧑‍🎓 招生
+-每年招收1-2名硕士研究生，欢迎符合以下条件的同学报考。
+  a) 对计算机视觉感兴趣，有明确的目标和规划，对自己有清楚的认识。
+  b) 有好奇心和求知欲，富于探索精神，碰到挫折能够以正确的心态面对。
+  c) 有扎实的英语、数学和编程基础，至少熟练掌握一门编程语言。
+
+
