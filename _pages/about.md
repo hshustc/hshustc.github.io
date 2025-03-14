@@ -43,7 +43,7 @@ My   research interest includes neural machine translation and computer vision. 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
+# 🎖️ Honors and Awards
 - *2022年* 入选北京市科协青年人才托举工程
 - *2019年* 获中国科学院院长奖优秀奖
 - *2019年* 获中国科学技术大学优秀博士论文
