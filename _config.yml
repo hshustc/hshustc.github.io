@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Saihui Hou(侯赛辉)"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Focusing on AI"
 repository               : "hshustc/hshustc.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,8 +27,8 @@ author:
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?user=6gnHaLcAAAAJ&hl=zh-CN"
+  email            : "housaihui@bnu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : # e.g., "hshustc"
   google_plus      :
   keybase          :
   instagram        :
