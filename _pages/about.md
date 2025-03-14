@@ -52,8 +52,9 @@ My research interest includes neural machine translation and computer vision. I 
 - *2013年* 获本科生国家奖学金 (Top 5%)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2014年—2019年* 中国科学技术大学信息科学技术学院，控制科学与工程专业，博士
+-*2017年—2018年* 香港中文大学信息工程系，MMLab，Research Assistant
+-*2010年—2014年* 中国科学技术大学信息科学技术学院，自动化专业，学士
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
