@@ -6,22 +6,14 @@ main:
   - title: "News"
     url: "/#-news"
 
+  - title: "Educations"
+    url: "/#-educations"
+
   - title: "Publications"
     url: "/#-publications"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "教育经历"
-    url: "/#-educations"
-
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-
-  - title: "工作经历"
-    url: "/#-工作经历"
-    
-  - title: "招生"
-    url: "/#-admissions"
-    
-    
+  - title: "Academic Services"
+    url: "/#-academic-services"

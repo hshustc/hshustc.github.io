@@ -8,68 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
+{% include_relative includes/1-intro.md %}
 
-# 📄 About me
-主要从事以人为中心的计算机视觉和增量学习等相关研究。目前在TPAMI、IJCV、TIFS和CVPR、ICCV、ECCV等期刊和会议发表40余篇论文，其中CCF-A类会议（含ECCV）和IEEE Trans期刊35篇，第一作者和通讯作者25篇，Google引用次数3100余次。申明专利20余项，主持国家自然科学基金青年基金和中央高校基本科研业务费专项资助项目，参与国家自然科学基金重点项目、面上项目以及多个企业横向合作项目。获中国科学技术大学优秀博士论文和中国科学院院长奖优秀奖，入选2023-2025北京市科协青年人才托举工程
+{% include_relative includes/2-news.md %}
 
-My   research interest includes neural machine translation and computer vision. I have published more than 40 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>3100+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+{% include_relative includes/3-exp.md %}
 
+{% include_relative includes/4-pub.md %}
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+{% include_relative includes/5-honors.md %}
 
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2022年* 入选北京市科协青年人才托举工程
-- *2019年* 获中国科学院院长奖优秀奖
-- *2019年* 获中国科学技术大学优秀博士论文
-- *2016年* 获研究生国家奖学金 (Top 5%)
-- *2014年* 获中国科学技术大学优秀毕业生
-- *2013年* 获本科生国家奖学金 (Top 5%)
-
-# 📖 Educations
-- *2014年—2019年* 中国科学技术大学信息科学技术学院，控制科学与工程专业，博士
-- *2017年—2018年* 香港中文大学信息工程系，MMLab，Research Assistant
-- *2010年—2014年* 中国科学技术大学信息科学技术学院，自动化专业，学士
-
-# 💬 Invited Talks
-
-# 💻 工作经历
-- *2024年至今* 北京师范大学人工智能学院，副教授
-- *2021年—2024年* 北京师范大学人工智能学院，讲师
-- *2019年—2021年* 中国科学院自动化研究所，博士后
-# 🌏 Collaborators
-# 📑 Academic Services
-- 中国图象图形学学会机器视觉专委会委员
-- 为TPAMI、IJCV、TIP以及CVPR、ICCV、ECCV等多个顶级期刊和会议审稿
-# 🧑‍🎓 招生
-- 每年招收1-2名硕士研究生，欢迎符合以下条件的同学报考。
-  - a) 对计算机视觉感兴趣，有明确的目标和规划，对自己有清楚的认识。
-  - b) 有好奇心和求知欲，富于探索精神，碰到挫折能够以正确的心态面对。
-  - c) 有扎实的英语、数学和编程基础，至少熟练掌握一门编程语言。
-
-
+{% include_relative includes/6-others.md %}
