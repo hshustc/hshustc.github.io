@@ -13,7 +13,7 @@ redirect_from:
 
 {% include_relative includes/2-news.md %}
 
-{% include_relative includes/3-exp.md %}
+{% include_relative includes/3-edu.md %}
 
 {% include_relative includes/4-pub.md %}
 
