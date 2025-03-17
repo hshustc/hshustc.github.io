@@ -1,7 +1,7 @@
 
 # 📝 Publications
 
-<a href='https://scholar.google.com/citations?user=6gnHaLcAAAAJ&hlJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://github.com/hshustc/hshustc.github.io/blob/google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+<a href='https://scholar.google.com/citations?user=6gnHaLcAAAAJ&hlJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://raw.githubusercontent.com/hshustc/hshustc.github.io/google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 ## Journal Publications 
 - **Saihui Hou**, Zengbin Wang, Man Zhang, Chunshui Cao, Xu Liu, Yongzhen Huang, Edge-Oriented Adversarial Attack for Deep Gait Recognition, International Journal of Computer Vision (**IJCV, CCF-A**), 2024.
