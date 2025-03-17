@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "hshustc"
+  github           : # "hshustc"
   google_plus      :
   keybase          :
   instagram        :
@@ -57,7 +57,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  中文主页         : "https://ai.bnu.edu.cn/xygk/szdw/fgj/170e0faaf01d4a0e8c50a6c889c786c3.htm"
 
 
 # Reading Files
