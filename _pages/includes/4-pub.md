@@ -1,7 +1,7 @@
 
 # 📝 Publications
 
-![Google Scholar Citations](https://img.shields.io/badge/Google_Scholar-<Citations_Count>-blue)
+![Google Scholar Citations]<a href='https://scholar.google.com/citations?user=6gnHaLcAAAAJ&hlJ'>
 
 ## Journal Publications 
 - **Saihui Hou**, Zengbin Wang, Man Zhang, Chunshui Cao, Xu Liu, Yongzhen Huang, Edge-Oriented Adversarial Attack for Deep Gait Recognition, International Journal of Computer Vision (**IJCV, CCF-A**), 2024.
