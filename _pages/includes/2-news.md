@@ -1,5 +1,7 @@
 # 🔥 News
-- *2025.06*: 🎉 Two Papers Accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
+- *2025.07*: 🎉🎉 Two Papers Accepted by ACM International Conference on Multimedia (ACM MM).
+- *2025.06*: 🎉🎉🎉🎉 Four Papers Accepted by IEEE/CVF International Conference on Computer Vision (ICCV).
+- *2025.06*: 🎉🎉 Two Papers Accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
 - *2025.02*: 🎉 One Paper Accepted by IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
 - *2025.02*: 🎉 One Paper Accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
 - *2025.02*: 🎉 One Paper Accepted by IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM).
