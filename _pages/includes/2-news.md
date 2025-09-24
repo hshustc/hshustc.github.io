@@ -1,4 +1,6 @@
 # 🔥 News
+- *2025.09*: 🎉 Recognized as a World's Top 2% Scientist by Stanford/Elsevier for the second straight year.
+- *2025.09*: 🎉 One Paper Accepted by Conference on Neural Information Processing Systems (NeurIPS, CCF-A).
 - *2025.08*: 🎉 One Paper Accepted by IEEE Transactions on Information Forensics and Security (TIFS, CCF-A).
 - *2025.07*: 🎉🎉 Two Papers Accepted by ACM International Conference on Multimedia (ACM MM, CCF-A).
 - *2025.06*: 🎉🎉🎉🎉 Four Papers Accepted by IEEE/CVF International Conference on Computer Vision (ICCV, CCF-A).
