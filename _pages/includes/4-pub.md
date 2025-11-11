@@ -6,6 +6,10 @@
 
 ## Journal Publications
 
+- **Saihui Hou**, Chenye Wang, Aoqi Li, Jilong Wang, Liang Wang, Yongzhen Huang, GaitAsset: In Defense of Regarding Gait As a Set, in IEEE Transactions on Information Forensics and Security **(TIFS, CCF-A),** 2025.
+
+- Shaopeng Yang, **Saihui Hou**, Xu Liu, Chunshui Cao, Kang Ma, Yongzhen Huang, Multimodal Mutual Learning for Unsupervised Gait Recognition, in IEEE Transactions on Information Forensics and Security **(TIFS, CCF-A),** 2025.
+
 - Shibei Meng, Yang Fu, **Saihui Hou**, Xuecai Hu, Chunshui Cao, Xu Liu, Yongzhen Huang, From FastPoseGait to GPGait++: Bridging the Past and Future for Pose-based Gait Recognition, in IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI, CCF-A),** 2025.
 
 - Chao Fan, **Saihui Hou**, Junhao Liang, Chuanfu Shen, Jingzhe Ma, Dongyang Jin, Yongzhen Huang, Shiqi Yu, OpenGait: A Comprehensive Benchmark Study for Gait Recognition Towards Better Practicality, in IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI, CCF-A),** 2025.
@@ -43,6 +47,8 @@
 
 ## Conference Publications
 
+- Panjian Huang, **Saihui Hou**, Chunshui Cao, Xu Liu, Yongzhen Huang, Vocabulary-Guided Gait Recognition, in Conference on Neural Information Processing Systems **(NeurIPS, CCF-A),** 2025.
+
 - Wenpeng Lang, **Saihui Hou**, Yongzhen Huang, Beyond Sparse Keypoints: Dense Pose Modeling for Robust Gait Recognition, in ACM International Conference on Multimedia **(ACM MM, CCF-A),** 2025.
 
 - Shibei Meng, **Saihui Hou**, Yang Fu, Xuecai Hu, Junzhou Huang, Yongzhen Huang, Seeing from Magic Mirror: Contrastive Learning from Reconstruction for Pose-based Gait Recognition, in ACM International Conference on Multimedia **(ACM MM, CCF-A),** 2025.
@@ -57,7 +63,7 @@
 
 - Shaopeng Yang, Jilong Wang, **Saihui Hou**, Xu Liu, Chunshui Cao, Liang Wang, Yongzhen Huang, Bridging Gait Recognition and Large Language Models Sequence Modeling, in IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR, CCF-A),** 2025.
 
-- Chenye Wang, **Saihui Hou**, Aoqi Li, Qingyuan Cai, Yongzhen Huang, RA-GAR: A Richly Annotated Benchmark for Gait Attribute Recognition, in AAAI Conference on Artificial Intelligence **(AAAI, CCF-A),** 2024.
+- Chenye Wang, **Saihui Hou**, Aoqi Li, Qingyuan Cai, Yongzhen Huang, RA-GAR: A Richly Annotated Benchmark for Gait Attribute Recognition, in AAAI Conference on Artificial Intelligence **(AAAI, CCF-A),** 2025.
 
 - Aoqi Li, **Saihui Hou**, Chenye Wang, Qingyuan Cai, Yongzhen Huang, AerialGait: Bridging Aerial and Ground Views for Gait Recognition, in ACM International Conference on Multimedia **(ACM MM, CCF-A),** 2024.
 
@@ -67,9 +73,9 @@
 
 - Panjian Huang, Yunjie Peng, **Saihui Hou**, Chunshui Cao, Xu Liu, Zhiqiang He, Yongzhen Huang, Occluded Gait Recognition with Mixture of Experts: An Action Detection Perspective, in European Conference on Computer Vision **(ECCV),** 2024.
 
-- Qingyuan Cai, Xuecai Hu, **Saihui Hou**, Li Yao, Yongzhen Huang, Disentangled Diffusion-Based 3D Human Pose Estimation with Hierarchical Spatial and Temporal Denoiser, in AAAI Conference on Artificial Intelligence **(AAAI, CCF-A),** 2023.
+- Qingyuan Cai, Xuecai Hu, **Saihui Hou**, Li Yao, Yongzhen Huang, Disentangled Diffusion-Based 3D Human Pose Estimation with Hierarchical Spatial and Temporal Denoiser, in AAAI Conference on Artificial Intelligence **(AAAI, CCF-A),** 2024.
 
-- Zengbin Wang, **Saihui Hou**, Man Zhang, Xu Liu, Chunshui Cao, Yongzhen Huang, Peipei Li, Shibiao Xu, QAGait: Revisit Gait Recognition From a Quality Perspective, in AAAI Conference on Artificial Intelligence **(AAAI, CCF-A),** 2023.
+- Zengbin Wang, **Saihui Hou**, Man Zhang, Xu Liu, Chunshui Cao, Yongzhen Huang, Peipei Li, Shibiao Xu, QAGait: Revisit Gait Recognition From a Quality Perspective, in AAAI Conference on Artificial Intelligence **(AAAI, CCF-A),** 2024.
 
 - Zengbin Wang, **Saihui Hou**, Man Zhang, Xu Liu, Chunshui Cao, Yongzhen Huang, Shibiao Xu, LandmarkGait: Intrinsic Human Parsing for Gait Recognition, in ACM International Conference on Multimedia **(ACM MM, CCF-A),** 2023.
 
