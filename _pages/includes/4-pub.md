@@ -47,6 +47,8 @@
 
 ## Conference Publications
 
+- **Saihui Hou**, Wenpeng Lang, Jilong Wang, Yan Huang, Liang Wang, Yongzhen Huang, Gait Transformer: End-to-End Transformer Backbone for Gait Recognition, in AAAI Conference on Artificial Intelligence **(AAAI, CCF-A),** 2026.
+
 - Panjian Huang, **Saihui Hou**, Chunshui Cao, Xu Liu, Yongzhen Huang, Vocabulary-Guided Gait Recognition, in Conference on Neural Information Processing Systems **(NeurIPS, CCF-A),** 2025.
 
 - Wenpeng Lang, **Saihui Hou**, Yongzhen Huang, Beyond Sparse Keypoints: Dense Pose Modeling for Robust Gait Recognition, in ACM International Conference on Multimedia **(ACM MM, CCF-A),** 2025.
