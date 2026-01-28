@@ -1,13 +1,15 @@
 # 🔥 News
-- *2025.11*: 🎉 One Paper Accepted by AAAI Conference on Artificial Intelligence (AAAI, CCF-A).
+- *2025.01*: 🎉 One Paper Accepted by International Conference on Learning Representations (ICLR2026).
+- *2026.01*: 🎉 One Paper Accepted by International Conference on Acoustics, Speech, and Signal Processing (ICASSP2026).
+- *2025.11*: 🎉 One Paper Accepted by AAAI Conference on Artificial Intelligence (AAAI2026, CCF-A).
 - *2025.11*: 🎉 One Paper Accepted by IEEE Transactions on Information Forensics and Security (TIFS, CCF-A).
 - *2025.09*: 🎉 Recognized as a World's Top 2% Scientist by Stanford/Elsevier for the second straight year.
-- *2025.09*: 🎉 One Paper Accepted by Conference on Neural Information Processing Systems (NeurIPS, CCF-A).
+- *2025.09*: 🎉 One Paper Accepted by Conference on Neural Information Processing Systems (NeurIPS2025, CCF-A).
 - *2025.08*: 🎉 One Paper Accepted by IEEE Transactions on Information Forensics and Security (TIFS, CCF-A).
-- *2025.07*: 🎉🎉 Two Papers Accepted by ACM International Conference on Multimedia (ACM MM, CCF-A).
-- *2025.06*: 🎉🎉🎉🎉 Four Papers Accepted by IEEE/CVF International Conference on Computer Vision (ICCV, CCF-A).
+- *2025.07*: 🎉🎉 Two Papers Accepted by ACM International Conference on Multimedia (MM2025, CCF-A).
+- *2025.06*: 🎉🎉🎉🎉 Four Papers Accepted by IEEE/CVF International Conference on Computer Vision (ICCV2025, CCF-A).
 - *2025.06*: 🎉🎉 Two Papers Accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI, CCF-A).
-- *2025.02*: 🎉 One Paper Accepted by IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR, CCF-A).
+- *2025.02*: 🎉 One Paper Accepted by IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR2025, CCF-A).
 - *2025.02*: 🎉 One Paper Accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
 - *2025.02*: 🎉 One Paper Accepted by IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM).
 - *2024 Summary*: CVPRx1, ECCVx3, MMx1, AAAIx1, IJCAIx1, IJCVx1, TIFSx2, TCSVTx1
