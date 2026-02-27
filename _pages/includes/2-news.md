@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.02*: 🎉🎉🎉 Three Papers Accepted by IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR2026, CCF-A).
 - *2026.01*: 🎉 One Paper Accepted by International Conference on Learning Representations (ICLR2026).
 - *2026.01*: 🎉 One Paper Accepted by International Conference on Acoustics, Speech, and Signal Processing (ICASSP2026).
 - *2025.11*: 🎉 One Paper Accepted by AAAI Conference on Artificial Intelligence (AAAI2026, CCF-A).

@@ -47,6 +47,14 @@
 
 ## Conference Publications
 
+- Chenye Wang, Qingyuan Cai, **Saihui Hou**, Aoqi Li, Yongzhen Huang, MMGait: Towards Multi-Modal Gait Recognition, in IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR, CCF-A),** 2026.
+
+- Qingyuan Cai, **Saihui Hou**, Xuecai Hu, Yongzhen Huang, BarbieGait: An Identity-Consistent Synthetic Human Dataset with Versatile Cloth-Changing for Gait Recognition, in IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR, CCF-A),** 2026.
+
+- Honglu Zhang, Zhiqin Fang, Ningning Zhao, **Saihui Hou**, Long Ma, Renwang Pei, Zhaofeng He, Harnessing Chain-of-Thought Reasoning in Multimodal Large Language Models for Face Anti-Spoofing, in IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR, CCF-A),** 2026.
+
+- **Saihui Hou**, Chenye Wang, Wenpeng Lang, Zhengxiang Lan, Yongzhen Huang, GaitSnippet: Gait Recognition Beyond Unordered Sets and Ordered Sequences, in International Conference on Learning Representations **(ICLR),** 2026.
+
 - **Saihui Hou**, Wenpeng Lang, Jilong Wang, Yan Huang, Liang Wang, Yongzhen Huang, Gait Transformer: End-to-End Transformer Backbone for Gait Recognition, in AAAI Conference on Artificial Intelligence **(AAAI, CCF-A),** 2026.
 
 - Panjian Huang, **Saihui Hou**, Chunshui Cao, Xu Liu, Yongzhen Huang, Vocabulary-Guided Gait Recognition, in Conference on Neural Information Processing Systems **(NeurIPS, CCF-A),** 2025.
