@@ -28,13 +28,13 @@
 
 - Yu Guo, Yu Zhao, **Saihui Hou**, Cong Wang, Xiaohua Jia, Verifying in the Dark: Verifiable Machine Unlearning by Using Invisible Backdoor Triggers, in IEEE Transactions on Information Forensics and Security **(TIFS, CCF-A),** 2023.
 
-- Zengbin Wang, **Saihui Hou**, Man Zhang, Xu Liu, Chunshui Cao, Yongzhen Huang, GaitParsing: Human Semantic Parsing for Gait Recognition, in IEEE Transactions on Multimedia **(TMM),** 2023.
+- Zengbin Wang, **Saihui Hou**, Man Zhang, Xu Liu, Chunshui Cao, Yongzhen Huang, GaitParsing: Human Semantic Parsing for Gait Recognition, in IEEE Transactions on Multimedia **(TMM, CCF-A),** 2023.
 
 - Xu Song, **Saihui Hou**, Yan Huang, Chunshui Cao, Xu Liu, Yongzhen Huang, Caifeng Shan, Gait Attribute Recognition: A New Benchmark for Learning Richer Attributes from Human Gait Patterns, in IEEE Transactions on Information Forensics and Security **(TIFS, CCF-A),** 2023.
 
 - Chao Fan, **Saihui Hou**, Jilong Wang, Yongzhen Huang, Shiqi Yu, Learning Gait Representation from Massive Unlabelled Walking Videos: A Benchmark, in IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI, CCF-A),** 2023.
 
-- Aoqi Li, **Saihui Hou**, Qingyuan Cai, Yang Fu, Yongzhen Huang, Gait Recognition with Drones: A Benchmark, in IEEE Transactions on Multimedia **(TMM),** 2023.
+- Aoqi Li, **Saihui Hou**, Qingyuan Cai, Yang Fu, Yongzhen Huang, Gait Recognition with Drones: A Benchmark, in IEEE Transactions on Multimedia **(TMM, CCF-A),** 2023.
 
 - **Saihui Hou**, Chao Fan, Chunshui Cao, Xu Liu, Yongzhen Huang, A Comprehensive Study on the Evaluation of Silhouette-based Gait Recognition, in IEEE Transactions on Biometrics, Behavior, and Identity Science **(TBIOM),** 2022.
 
@@ -42,7 +42,7 @@
 
 - **Saihui Hou**, Xu Liu, Chunshui Cao, Yongzhen Huang, Set Residual Network for Silhouette-based Gait Recognition, in IEEE Transactions on Biometrics, Behavior, and Identity Science **(TBIOM),** 2021.
 
-- Zilei Wang, Dao Xiang, **Saihui Hou**, Feng Wu, Background Driven Salient Object Detection, in IEEE Transactions on Multimedia  **(TMM),** 2016.
+- Zilei Wang, Dao Xiang, **Saihui Hou**, Feng Wu, Background Driven Salient Object Detection, in IEEE Transactions on Multimedia  **(TMM, CCF-A),** 2016.
 
 
 ## Conference Publications
@@ -53,7 +53,7 @@
 
 - Honglu Zhang, Zhiqin Fang, Ningning Zhao, **Saihui Hou**, Long Ma, Renwang Pei, Zhaofeng He, Harnessing Chain-of-Thought Reasoning in Multimodal Large Language Models for Face Anti-Spoofing, in IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR, CCF-A),** 2026.
 
-- **Saihui Hou**, Chenye Wang, Wenpeng Lang, Zhengxiang Lan, Yongzhen Huang, GaitSnippet: Gait Recognition Beyond Unordered Sets and Ordered Sequences, in International Conference on Learning Representations **(ICLR),** 2026.
+- **Saihui Hou**, Chenye Wang, Wenpeng Lang, Zhengxiang Lan, Yongzhen Huang, GaitSnippet: Gait Recognition Beyond Unordered Sets and Ordered Sequences, in International Conference on Learning Representations **(ICLR, CCF-A),** 2026.
 
 - **Saihui Hou**, Wenpeng Lang, Jilong Wang, Yan Huang, Liang Wang, Yongzhen Huang, Gait Transformer: End-to-End Transformer Backbone for Gait Recognition, in AAAI Conference on Artificial Intelligence **(AAAI, CCF-A),** 2026.
 
