@@ -1,5 +1,5 @@
 # 🔥 News
-- *2026.02*: 🎉 One Paper Accepted by International Journal of Computer Vision (IJCV, CCF-A).
+- *2026.08*: 🎉 One Paper Accepted by International Journal of Computer Vision (IJCV, CCF-A).
 - *2026.07*: 🎉🎉 Two Papers Accepted by ACM International Conference on Multimedia (MM2026, CCF-A).
 - *2026.02*: 🎉🎉🎉 Three Papers Accepted by IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR2026, CCF-A).
 - *2026.01*: 🎉 One Paper Accepted by International Conference on Learning Representations (ICLR2026, CCF-A).
