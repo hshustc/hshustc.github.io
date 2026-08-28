@@ -6,6 +6,8 @@
 
 ## Journal Publications
 
+- **Saihui Hou**, Chenye Wang, Hui Su, Yongzhen Huang, Query-Free Black-Box Universal Adversarial Attacks on Gait Recognition, in International Journal of Computer Vision **(IJCV, CCF-A),** 2026.
+
 - **Saihui Hou**, Chenye Wang, Aoqi Li, Jilong Wang, Liang Wang, Yongzhen Huang, GaitAsset: In Defense of Regarding Gait As a Set, in IEEE Transactions on Information Forensics and Security **(TIFS, CCF-A),** 2025.
 
 - Shaopeng Yang, **Saihui Hou**, Xu Liu, Chunshui Cao, Kang Ma, Yongzhen Huang, Multimodal Mutual Learning for Unsupervised Gait Recognition, in IEEE Transactions on Information Forensics and Security **(TIFS, CCF-A),** 2025.
@@ -46,6 +48,10 @@
 
 
 ## Conference Publications
+
+- Saijie Hou, Yuan Liu, Zikang Li, **Saihui Hou**, Jian Zhao, Zhaofeng He, Synergizing Multi-Turn Chain-of-Thought Reasoning and Reinforcement Fine-Tuning for Detecting and Grounding Multi-Modal Manipulation, in ACM International Conference on Multimedia **(ACM MM, CCF-A),** 2026.
+
+- Yuan Liu, **Saihui Hou**, Shibei Meng, Jiabao Du, Yongzhen Huang, IDC-RFT: Incentivizing Fine-Grained Image Difference Captioning via Reinforcement Fine-Tuning, in ACM International Conference on Multimedia **(ACM MM, CCF-A),** 2026.
 
 - Chenye Wang, Qingyuan Cai, **Saihui Hou**, Aoqi Li, Yongzhen Huang, MMGait: Towards Multi-Modal Gait Recognition, in IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR, CCF-A),** 2026.
 
