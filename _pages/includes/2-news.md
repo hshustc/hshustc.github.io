@@ -1,5 +1,5 @@
 # 🔥 News
-- *2026.08*: 🎉 One Paper Accepted by Conference on Empirical Methods in Natural Language Processing (EMNLP2026 Findings).
+- *2026.08*: 🎉 One Paper Accepted by Conference on Empirical Methods in Natural Language Processing (EMNLP2026).
 - *2026.08*: 🎉 One Paper Accepted by International Journal of Computer Vision (IJCV, CCF-A).
 - *2026.07*: 🎉🎉 Two Papers Accepted by ACM International Conference on Multimedia (MM2026, CCF-A).
 - *2026.04*: 🎉 One Paper Accepted by International Conference on Multimedia Retrieval (ICMR2026).
