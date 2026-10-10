@@ -1,7 +1,9 @@
 # 🔥 News
+- *2026.10*: 🎉 **Recognized as a World's Top 2% Scientist by Stanford/Elsevier for the third straight year.**
+- *2026.09*: 🎉 One Paper Accepted by Conference on Neural Information Processing Systems (NeurIPS2026, CCF-A).
 - *2026.08*: 🎉 One Paper Accepted by Conference on Empirical Methods in Natural Language Processing (EMNLP2026).
 - *2026.08*: 🎉 One Paper Accepted by International Journal of Computer Vision (IJCV, CCF-A).
-- *2026.07*: 🎉 Invited to serve as a Senior Program Committee Member for AAAI 2027.
+- *2026.07*: 🎉 **Invited to serve as a Senior Program Committee Member for AAAI 2027.**
 - *2026.07*: 🎉🎉 Two Papers Accepted by ACM International Conference on Multimedia (MM2026, CCF-A).
 - *2026.04*: 🎉 One Paper Accepted by International Conference on Multimedia Retrieval (ICMR2026).
 - *2026.02*: 🎉🎉🎉 Three Papers Accepted by IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR2026, CCF-A).
